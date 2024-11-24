@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header #la_nav{
+    height: 7vh;
+    border-bottom: 3px solid #88D3D0;
+    box-shadow: 2px 6px 15px #88D3D0;
+}
+
+
+header #la_nav ul{
+
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration:underline ;
+    color:#88D3D0;
+}
+    
+#la{
+    width: 12 px;
+    background-color: aqua;
+}
+img{
+    border-radius: 50%;
+}
